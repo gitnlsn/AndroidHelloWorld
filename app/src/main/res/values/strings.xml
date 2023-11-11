@@ -2,4 +2,6 @@
     <string name="app_name">My Application</string>
     <string name="happy_birthday">Happy birthday!</string>
     <string name="from_emma">From Emma</string>
+    <string name="happy_birthday_sam">Happy birthday Sam!</string>
+    <string name="emma">Emma</string>
 </resources>
